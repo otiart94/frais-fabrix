@@ -1,9 +1,0 @@
-streamlit
-pandas
-openpyxl
-Pillow
-transformers>=4.45.0
-torch
-pillow-heif
-sentencepiece
-accelerate
